@@ -1,0 +1,8 @@
+.venv/
+data/
+models/**/*.joblib
+models/**/*.parquet
+kaggle.json
+access_token
+.ipynb_checkpoints/
+__pycache__/
